@@ -1,0 +1,1 @@
+Export `OBS_WEBSOCKET_PASS` with the password of the obs websocket
